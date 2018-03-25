@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+/* Quitar la barra de desplasamiento en X 'abajo' para cuando se usa 
+una columna mas grande que col-lg-12 */
+body{
+    /* overflow: hidden; */
+}

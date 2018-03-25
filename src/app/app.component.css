@@ -1,0 +1,19 @@
+.dddddd{
+    font-size: 39px;
+    text-transform: none;
+}
+
+.download-section{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/templatepaginaweb.appspot.com/o/gameLeoModificado.png?alt=media&token=191067d1-91f3-44a7-aebd-a7c8e9705bd1')
+}
+.ColorFooter{
+    color: white;
+    background-color: #000;
+}
+.colorIconSocial{
+    color: #1d2124;
+    border: 1px solid #1d2124;
+}
+.ImageBackground{
+    background: url(https://blackrockdigital.github.io/startbootstrap-grayscale/img/intro-bg.jpg) no-repeat bottom center scroll;
+}
