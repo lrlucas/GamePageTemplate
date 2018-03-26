@@ -17,3 +17,29 @@
 .ImageBackground{
     background: url(https://blackrockdigital.github.io/startbootstrap-grayscale/img/intro-bg.jpg) no-repeat bottom center scroll;
 }
+.centerText{
+    text-align: center;
+}
+.paddingTextGameStore{
+    padding-top: 8px;
+    padding-bottom: 9px;
+}
+.AjustarTamañoStores{
+    height: 57px;
+    width: 258px;
+}
+.paddingImage{
+    padding: 2.5%;
+}
+.image100porcientoAlto{
+    height: 100%;
+}
+.Image100porciento{
+    width: 100%;
+}
+
+.TextWelcome{
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+    font-size: 27px;
+}
